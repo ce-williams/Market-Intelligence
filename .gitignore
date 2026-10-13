@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/database/*.duckdb
+data/database/*.wal
+data/raw/**
+data/processed/**
+data/research/**

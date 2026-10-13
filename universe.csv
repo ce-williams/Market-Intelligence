@@ -1,0 +1,105 @@
+symbol,name,kind,benchmark
+AAPL,Apple Inc.,equity,false
+ABBV,AbbVie Inc,equity,false
+ABNB,Airbnb Inc,equity,false
+ABT,Abbott Laboratories,equity,false
+AMD,Advanced Micro Devices Inc,equity,false
+AMZN,Amazon.com Inc.,equity,false
+ARKK,ARK Innovation ETF,sector_etf,false
+ARM,Arm Holdings PLC,equity,false
+AVGO,Broadcom Inc.,equity,false
+BA,Boeing Co,equity,false
+BAC,Bank of America Corp,equity,false
+BRK-B,Berkshire Hathaway Inc,equity,false
+BUG,Global X Cybersecurity ETF,sector_etf,false
+C,Citigroup Inc,equity,false
+CAT,Caterpillar Inc,equity,false
+CIBR,First Trust NASDAQ Cybersecurity ETF,sector_etf,false
+CMCSA,Comcast Corp,equity,false
+COIN,Coinbase Global Inc,equity,false
+COST,Costco Wholesale Corp,equity,false
+CRM,Salesforce Inc,equity,false
+CROX,Crocs Inc.,equity,false
+CRWD,CrowdStrike Holdings Inc.,equity,false
+CVX,Chevron Corp,equity,false
+DASH,DoorDash Inc,equity,false
+DDOG,Datadog Inc,equity,false
+DE,Deere & Co,equity,false
+DHR,Danaher Corp,equity,false
+DIA,Dow Jones ETF,benchmark,true
+DIS,Walt Disney Co,equity,false
+FCX,Freeport-McMoRan Inc,equity,false
+FTNT,Fortinet Inc,equity,false
+GE,GE Aerospace,equity,false
+GLD,SPDR Gold Shares ETF,macro_etf,false
+GOOGL,Alphabet Inc.,equity,false
+GS,Goldman Sachs Group Inc,equity,false
+HACK,ETFMG Prime Cyber Security ETF,sector_etf,false
+HD,Home Depot Inc,equity,false
+HYG,iShares iBoxx High Yield Corporate Bond ETF,macro_etf,false
+INTC,Intel Corporation,equity,false
+IWM,iShares Russell 2000 ETF,benchmark,true
+JNJ,Johnson & Johnson,equity,false
+JPM,JPMorgan Chase & Co.,equity,false
+KO,Coca-Cola Co,equity,false
+LLY,Eli Lilly and Co,equity,false
+LMT,Lockheed Martin Corp,equity,false
+LOW,Lowe's Companies Inc,equity,false
+LQD,iShares iBoxx Investment Grade Corporate Bond ETF,macro_etf,false
+MA,Mastercard Inc,equity,false
+MCD,McDonald's Corp,equity,false
+META,Meta Platforms Inc.,equity,false
+MRK,Merck & Co Inc,equity,false
+MS,Morgan Stanley,equity,false
+MSFT,Microsoft Corporation,equity,false
+MU,Micron Technology Inc.,equity,false
+NEE,NextEra Energy Inc,equity,false
+NET,Cloudflare Inc,equity,false
+NFLX,Netflix Inc,equity,false
+NKE,Nike Inc,equity,false
+NVDA,NVIDIA Corporation,equity,false
+PANW,Palo Alto Networks Inc.,equity,false
+PEP,PepsiCo Inc,equity,false
+PFE,Pfizer Inc,equity,false
+PG,Procter & Gamble Co,equity,false
+PLTR,Palantir Technologies Inc,equity,false
+PYPL,PayPal Holdings Inc.,equity,false
+QQQ,Invesco QQQ Trust,benchmark,true
+RIVN,Rivian Automotive Inc,equity,false
+RTX,RTX Corp,equity,false
+S,SentinelOne Inc,equity,false
+SBUX,Starbucks Corp,equity,false
+SCHW,Charles Schwab Corp,equity,false
+SMCI,Super Micro Computer Inc,equity,false
+SMH,VanEck Semiconductor ETF,sector_etf,false
+SNOW,Snowflake Inc,equity,false
+SO,Southern Co,equity,false
+SPY,SPDR S&P 500 ETF,benchmark,true
+SQ,Block Inc,equity,false
+T,AT&T Inc,equity,false
+TGT,Target Corp,equity,false
+TLT,iShares 20+ Year Treasury Bond ETF,macro_etf,false
+TMO,Thermo Fisher Scientific Inc,equity,false
+TSLA,Tesla Inc.,equity,false
+UBER,Uber Technologies Inc,equity,false
+UNH,UnitedHealth Group Inc,equity,false
+UNP,Union Pacific Corp,equity,false
+USO,United States Oil Fund ETF,macro_etf,false
+UUP,Invesco DB US Dollar Index Bullish Fund,macro_etf,false
+V,Visa Inc,equity,false
+VTI,Total US Market ETF,benchmark,true
+WFC,Wells Fargo & Co,equity,false
+WMT,Walmart Inc,equity,false
+XLB,Materials Select SPDR,sector_etf,false
+XLC,Communication Services SPDR,sector_etf,false
+XLE,Energy Select Sector SPDR Fund,sector_etf,false
+XLF,Financial Select Sector SPDR Fund,sector_etf,false
+XLI,Industrial Select SPDR,sector_etf,false
+XLK,Technology Select Sector SPDR Fund,sector_etf,false
+XLP,Consumer Staples SPDR,sector_etf,false
+XLRE,Real Estate Select SPDR,sector_etf,false
+XLU,Utilities Select SPDR,sector_etf,false
+XLV,Health Care Select Sector SPDR Fund,sector_etf,false
+XLY,Consumer Discretionary SPDR,sector_etf,false
+XOM,Exxon Mobil Corp,equity,false
+ZS,Zscaler Inc,equity,false
