@@ -81,6 +81,8 @@ The Insider Flows page now puts the largest reported purchase, the most recently
 
 ## Pre-generated research snapshots
 
+The dashboard includes a mobile page selector in the header because the desktop sidebar is hidden at phone widths. On the Overview page, data coverage and catalyst context appear above the tracked-market-universe screener so the instrument list remains at the bottom of the page.
+
 The Opportunity Scanner places 36 distinct price-history screens above its filters: 12 trend-continuation names, 12 constructive pullbacks, and 12 weak-trend downside watches. Cards show multi-period returns, relative strength versus SPY, RSI, moving-average levels, liquidity, realized volatility, and strategy and risk notes. Each stock card also includes a company-specific business/theme narrative, likely operating drivers, thesis risks, and a link to SEC company filings. These are durable context lenses, not live news or catalyst alerts; check current filings, dates, and policy developments before relying on a catalyst. The **Refresh scan** button reloads the local data files; run the price collector first if you want newer prices. These are research screens, not live entries or personalized recommendations.
 
 Insider Flows shows up to nine actual reported transactions, ranked by disclosed transaction value. It displays fewer when fewer filings are present and never invents activity to reach nine.
